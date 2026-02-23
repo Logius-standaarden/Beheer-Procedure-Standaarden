@@ -5,7 +5,6 @@ De NLGOV Standaarden worden door Logius beheerd volgens [Beheermodellen](https:/
 
 In de onderstaande hoofdstukken wordt ingegaan op het RFC Proces voor het verwerken van wijzigingsvoorstellen, het Release planningsproces en het Release proces.
 
-
 ## RFC (Request for Change)  Proces 
 
 Een binnen gekomen wijzigingsvoorstel wordt door Beheer beoordeeld en voorgelegd aan het Technisch Overleg (of direct aan een hoger MIDO gremium als het voorstel een tactisch / strategisch vraagstuk betreft).
@@ -21,8 +20,6 @@ Het onderstaande schema geeft het proces mbt beoordelen van wijzigingsvoorstelle
 
 [Legenda](#bijlage-bpmn-legenda)
 
-
-
 |Activiteit | Verantwoordelijk | Toelichting | RFC status (begin)| RFC status (eind)
 |----|----|----|---|---|
 |Intake RFC|Beheer|Beheer legt issue voor aan TO of hoger Gremium | - | ter Beoordeling|
@@ -30,7 +27,6 @@ Het onderstaande schema geeft het proces mbt beoordelen van wijzigingsvoorstelle
 |Uitwerken|Beheer| Uitwerking RFC  |in Bewerking | ter Goedkeuring|
 |Beoordelen|TO | Het TO beoordeelt de uitwerking en geeft aan of de RFC moet worden doorgevoerd |ter Goedkeuring | Gereed |
 |Doorvoeren RFC| Beheer|  Beheer voert de RFC door  |Gereed  | Klaar voor release|
-
 
 ## Release Planning Proces
 
@@ -57,9 +53,7 @@ In het Releaseproces wordt een volgende release van de standaard samengesteld do
 De nieuwe versie wordt vervolgens publiek geconsulteerd, en de resultaten van de consultatie worden besproken in het Technisch Overleg en verwerkt. De definitieve release wordt vervolgens voor vaststelling geagendeerd bij de MIDO Programmeringstafel (bij een major/minor wijziging) en bij de Programmeringsraad (alleen bij major wijzigingen). 
 Na Goedkeuring wordt de standaard door Beheer gepubliceerd.
 
-
 ![Alt text](./media/mido_rfc_release_kpapi.svg)
-
 
 [Legenda](#bijlage-bpmn-legenda)
 
@@ -89,8 +83,6 @@ Zie als voorbeeld van de State of this document de onderstaande tabel:
 | [Forum Standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [2.0.0-rc.2](https://gitdocumentatie.logius.nl/publicatie/api/adr/2.0.0-rc.2) | reported                                                     | 25-01-2024 |
 | [Forum Standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [2.0.0](https://gitdocumentatie.logius.nl/publicatie/api/adr/2.0.0) | intake pending                                               | 18-04-2024 |
 | [Forum Standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [2.0.0](https://gitdocumentatie.logius.nl/publicatie/api/adr/2.0.0) | definitive version / approved by Forum Standaardisatie       | tbd        |
-
-
 
 ## Bijlage Begrippenlijst
 
@@ -129,7 +121,6 @@ Zie als voorbeeld van de State of this document de onderstaande tabel:
 
 ## Bijlage Statussen
 
-
 ### RFC Status
 
 |Status  | Toelichting | 
@@ -155,9 +146,6 @@ Zie als voorbeeld van de State of this document de onderstaande tabel:
 | PR:Release_ Goedgekeurd | Release goedgekeurd door Programmeringsraad |
 | Vastgesteld | Release vastgesteld |
 
-
 ## Bijlage BPMN Legenda
 
-![Legenda](./media/BPMN%20Symbolen%20afbeelding.PNG)
-
-
+![Legenda](./media/bpmn-symbolen.png)
