@@ -148,4 +148,4 @@ Zie als voorbeeld van de State of this document de onderstaande tabel:
 
 ## Bijlage BPMN Legenda
 
-![Legenda](./media/BPMN%20Symbolen%20afbeelding.PNG)
+![Legenda](./media/bpmn-symbolen.png)
