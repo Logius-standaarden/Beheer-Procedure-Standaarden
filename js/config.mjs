@@ -10,6 +10,9 @@ loadRespecWithConfiguration({
   shortName: "template",
   publishDate: "2023-01-31",
   publishVersion: "0.0.1",
+  // TODO: verwijder voor publicatie
+  latestVersion: "https://logius-standaarden.github.io/Beheer-Procedure-Standaarden/",
+  prevVersion: [],
   title: "Beheer Procedure Standaarden",
   editors:
     [
